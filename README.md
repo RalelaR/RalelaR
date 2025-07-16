@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RalelaR
-- 👀 I’m interested in Python programming
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: rale.miroli@gmail.com
+- 👋 Hi, I’m @Raul Sukovic
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning building my app and learning programming languages
+- 📫 How to reach me: sukovic.raul@gmail.com
