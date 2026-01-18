@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @Raul Sukovic
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning building my app and learning programming languages
 - 📫 How to reach me: sukovic.raul@gmail.com
